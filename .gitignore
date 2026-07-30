@@ -1,0 +1,12 @@
+# Portfolio gitignore
+node_modules/
+dist/
+.resume_extract/
+.vscode/
+.DS_Store
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vite
