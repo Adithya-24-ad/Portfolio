@@ -10,7 +10,7 @@ export const profile = {
   phone: '+91 94890 36058',
   location: 'Nambiyur, Tamil Nadu',
   portfolioUrl: '',
-  resumeUrl: '/Adithya_V_Resume.docx',
+  resumeUrl: '/My_Resume.docx',
   photoUrl: '',
   theme: 'Blue/Cyan',
   education: [
