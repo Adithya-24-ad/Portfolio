@@ -59,6 +59,10 @@ export const profile = {
   ],
   certifications: [
     {
+      title: 'Data Analytics with Python',
+      issuer: 'NPTEL',
+    },
+    {
       title: 'Cloud Computing',
       issuer: 'NPTEL',
       description: 'Completed with Elite Score.',
